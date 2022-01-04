@@ -1,5 +1,6 @@
 ## Allegro_Skill
-* [Allegro_Skill_LY](https://github.com/lukeli17/Allegro_Skill_LY)
+* 其他：[Allegro_Skill_LY](https://github.com/lukeli17/Allegro_Skill_LY)
+* 此界面下资料未测试过，自行下载
 ### 论坛
 * [EDA365](https://www.eda365.com/forum.php)
 * [Cadence Skill 论坛](http://www.allegro-skill.com/)
